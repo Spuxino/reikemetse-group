@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.reikemetsegroup.co.za/sitemap.xml
